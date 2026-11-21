@@ -1,16 +1,51 @@
-## Hi there 👋
+# **Jose Eduardo Hernandez Laureano**
 
-<!--
-**e-hernandezl/e-hernandezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Student in Computer Engineering at the Centro de Investigación en Computación (CIC-IPN).
 
-Here are some ideas to get you started:
+## ***Research Interests***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dynamic Vehicle Routing Problems (DVRP)
+- Crowdshipping Systems
+- Last-Mile Delivery
+- Metaheuristics
+- Combinatorial Optimization
+- Geospatial Data Analysis
+- Operations Research
+
+## ***Research Laboratories***
+
+- Intelligent Geospatial Information Processing Laboratory
+- Networks and Data Science Laboratory
+
+## ***Current Research***
+
+Optimization of Dynamic Vehicle Routing Problems (DVRP) with Opportunistic Requests through Crowdshipping Mechanisms.
+
+## ***Professional Background***
+
+Industrial Engineer with professional experience in operations improvement and process optimization.
+
+Professional Certifications:
+
+- Lean Six Sigma Black Belt
+- Scrum Master
+
+Areas of interest include logistics optimization, process improvement, decision-support systems, and operations management.
+
+## ***Technical Skills***
+
+- Python
+- Git & GitHub
+- LaTeX
+- Mathematical Optimization
+- Data Analysis
+- Geographic Information Systems (GIS)
+
+## ***Current Academic Project***
+
+### *Dynamic Crowdshipping Routing*
+
+Optimization of Dynamic Vehicle Routing Problems (DVRP) with Opportunistic Requests through Crowdshipping Mechanisms.
+
+Repository:
+[Dynamic Crowdshipping Routing](https://github.com/e-hernandezl/dynamic-crowdshipping-routing)
