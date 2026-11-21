@@ -14,8 +14,8 @@ M.Sc. Student in Computer Engineering at the Centro de Investigación en Computa
 
 ## ***Research Laboratories***
 
-- Intelligent Geospatial Information Processing Laboratory
 - Networks and Data Science Laboratory
+- Intelligent Geospatial Information Processing Laboratory
 
 ## ***Current Research***
 
